@@ -1,4 +1,4 @@
-![logo](
+![logo](https://github.com/rjv01/rjv01/blob/main/github_bckgrd.png)
 
 <h1 align="center">Hi 👋, I'm Raj Shekhar Verma</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
