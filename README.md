@@ -1,6 +1,7 @@
 <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 250px;">
-    <h1>Hi 👋, I'm Raj Shekhar Verma 😎</h1>
+    <h1 align="center" >Hi 👋, I'm Raj Shekhar Verma (rjv01) 😎</h1>
+    <br />
     <h3>A passionate MERN Stack Developer from India 🌍</h3>
   </div>
   <div >
@@ -36,7 +37,7 @@
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/rjv01/whisperIt">
-        <img src="https://cdn.dribbble.com/users/1554526/screenshots/12269010/media/4a5c6db7c1f7a94a7ebcb9d03e3f2f90.gif"
+        <img src="https://github.com/rjv01/rjv01/blob/main/whisperit.png?raw=true"
              alt="WhisperIt Chat App"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
@@ -48,7 +49,7 @@
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/rjv01/konsi-movies">
-        <img src="https://cdn.dribbble.com/users/2113371/screenshots/14538543/media/097b31644ffb58dbfe88da8ad7eac0c3.gif"
+        <img src="https://github.com/rjv01/rjv01/blob/main/konsiMovie.png?raw=true"
              alt="Konsi Movie App"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
@@ -60,7 +61,7 @@
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/rjv01/Suvidha-frontend">
-        <img src="https://cdn.dribbble.com/users/1657132/screenshots/10707941/media/1dc94f7b9f210b2a88cb12b329d5a3e0.gif"
+        <img src="https://github.com/rjv01/rjv01/blob/main/Suvidha.png?raw=true"
              alt="Suvidha Job Platform"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
