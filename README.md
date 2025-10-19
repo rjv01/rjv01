@@ -1,36 +1,108 @@
-![logo](https://github.com/rjv01/rjv01/blob/main/github_bckgrd.png)
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 250px;">
+    <h1>Hi 👋, I'm Raj Shekhar Verma 😎</h1>
+    <h3>A passionate MERN Stack Developer from India 🌍</h3>
+  </div>
+  <div >
+    <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWxrNGswYTN4Y2kyaWtsanl5MThrYm5ncjNsbHVxa3hvMGt1bGs3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WFyvwq3xoTTMs/giphy.gif" 
+         alt="Coding GIF" 
+         width="450" 
+         style="border-radius: 12px;" />
+  </div>
+</div>
 
-<h1 align="center">Hi 👋, I'm Raj Shekhar Verma</h1>
-<h3 align="center">A passionate MERN stack developer from India</h3>
-
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rjv01&label=Profile%20views&color=0e75b6&style=flat" alt="rjv01" /> </p>
-
-- 🔭 I’m currently working on MERN Stack Development 
-
-- 🌱 I’m currently learning **ReactJS , NodeJS and Data structures and algorithms**
-
-- My Project Links: 
-1) [EventPro1](https://drive.google.com/file/d/1pzQBz9yH8pJIJj5qTq5NGjmVuhmZcQPv/view?usp=share_link)
-2) [EventPro2](https://github.com/rjv01/EventPro)
-
-- 📫 How to reach me **verma.rajshekhar1@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1F60QNIzbcBihRQPQHRND73PaFMX6VsRZ/view?usp=share_link)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/raj-shekhar-verma-2a292a231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raj-shekhar-verma-2a292a231" height="30" width="40" /></a>
-<a href="https://kaggle.com/rajshekharverma01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rajshekharverma01" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/rjv_coder01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rjv_coder01" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/raj_shekhar_2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="raj_shekhar_2021" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rjv01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rjv01" height="30" width="40" /></a>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=rjv01&label=Profile%20views&color=0e75b6&style=flat" alt="rjv01" /> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+ 😶‍🌫️ **About Me**
+- I'm from India 🌎. Huge fan of Node.js and writing testable software 💻.
+- Passionate about creating impactful web apps with clean, secure, and scalable code. Currently exploring cloud technologies ☁️ and improving backend architecture skills.
+- When not coding, I enjoy watching tutorials 🫣, lifting weights 🏋️, and sketching ✏️.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rjv01&show_icons=true&locale=en" alt="rjv01" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rjv01&" alt="rjv01" /></p>
+---
+
+## 🛠️ Skill Stack
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,js,tailwind,cpp,java,mongodb,mysql,aws,git,github,&theme=light)](https://skillicons.dev)  
+
+**Also comfortable with:** Linux terminal (Bash).
+
+---
+
+## Projects - Showcase
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/rjv01/whisperIt">
+        <img src="https://cdn.dribbble.com/users/1554526/screenshots/12269010/media/4a5c6db7c1f7a94a7ebcb9d03e3f2f90.gif"
+             alt="WhisperIt Chat App"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>WhisperIt</b><br/>
+      <sub>A real-time chat app with media sharing and emoji support.</sub><br/>
+      🔗 <a href="https://github.com/rjv01/whisperIt">Repo</a><br/>
+      <sub>Tags: React, Node.js, Socket.io, Tailwind CSS</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/rjv01/konsi-movies">
+        <img src="https://cdn.dribbble.com/users/2113371/screenshots/14538543/media/097b31644ffb58dbfe88da8ad7eac0c3.gif"
+             alt="Konsi Movie App"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Konsi-Movie</b><br/>
+      <sub>A MERN movie app with rating & reporting system. Movies reported 5 times auto-hide.</sub><br/>
+      🔗 <a href="https://github.com/rjv01/konsi-movies">Repo</a><br/>
+      <sub>Tags: MERN, JWT Auth, MongoDB, Tailwind CSS</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/rjv01/Suvidha-frontend">
+        <img src="https://cdn.dribbble.com/users/1657132/screenshots/10707941/media/1dc94f7b9f210b2a88cb12b329d5a3e0.gif"
+             alt="Suvidha Job Platform"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Suvidha</b><br/>
+      <sub>A job platform for servicemen with bidding & rating system.</sub><br/>
+      🔗 <a href="https://github.com/rjv01/Suvidha-frontend">Repo</a><br/>
+      <sub>Tags: MERN, Cloudinary, i18n, MongoDB</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧠 Currently Learning
+- ☁️ **AWS Cloud**
+- ⚙️ **Java Spring Boot (REST API Development)**
+- 🧩 **System Design for Scalable Apps**
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rjv01&theme=great-gatsby&show_icons=true&hide_border=false&count_private=true" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rjv01&theme=great-gatsby&hide_border=false" height="200"/>
+</p>
+
+---
+
+<h3>🌐 Connect with me:</h3>
+<p>
+  <a href="https://linkedin.com/in/raj-shekhar-verma-2a292a231" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/rjv01" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+  <a href="mailto:verma.rajshekhar1@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40" />
+  </a>
+</p>
+
+### ✨ “Code with clarity, build with purpose.”
+Thanks for visiting my profile! 🌸  
+Feel free to explore my repositories and reach out if you’d like to collaborate 🚀
