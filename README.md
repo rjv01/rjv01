@@ -36,7 +36,7 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/rjv01/whisperIt">
+      <a href="https://whisper-it-frontend.vercel.app/">
         <img src="https://github.com/rjv01/rjv01/blob/main/whisperit.png?raw=true"
              alt="WhisperIt Chat App"
              style="width:100%; height:200px; object-fit:cover;"/>
@@ -48,7 +48,7 @@
       <sub>Tags: React, Node.js, Socket.io, Tailwind CSS</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/rjv01/konsi-movies">
+      <a href="https://konsi-movie-frontend-9c5edzh1w-raj-shekhar-vermas-projects.vercel.app/">
         <img src="https://github.com/rjv01/rjv01/blob/main/konsiMovie.png?raw=true"
              alt="Konsi Movie App"
              style="width:100%; height:200px; object-fit:cover;"/>
@@ -60,7 +60,7 @@
       <sub>Tags: MERN, JWT Auth, MongoDB, Tailwind CSS</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/rjv01/Suvidha-frontend">
+      <a href="https://suvidha-frontend.vercel.app/">
         <img src="https://github.com/rjv01/rjv01/blob/main/Suvidha.png?raw=true"
              alt="Suvidha Job Platform"
              style="width:100%; height:200px; object-fit:cover;"/>
