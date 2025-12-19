@@ -48,7 +48,7 @@
       <sub>Tags: React, Node.js, Socket.io, Tailwind CSS</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://konsi-movie-frontend-9c5edzh1w-raj-shekhar-vermas-projects.vercel.app/">
+      <a href="https://konsi-movies.vercel.app/">
         <img src="https://github.com/rjv01/rjv01/blob/main/konsiMovie.png?raw=true"
              alt="Konsi Movie App"
              style="width:100%; height:200px; object-fit:cover;"/>
