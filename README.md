@@ -2,7 +2,9 @@
   <div style="flex: 1; min-width: 250px;">
     <h1 align="center" >Hi 👋, I'm Raj Shekhar Verma (rjv01) 😎</h1>
     <br />
-    <h3>A passionate MERN Stack Developer from India 🌍</h3>
+    <h3 align="center">
+      🚀  <b>Skillful Software Developer</b> | <b>Passionate MERN Stack Developer</b> from India 🌍
+    </h3>
   </div>
   <div >
     <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWxrNGswYTN4Y2kyaWtsanl5MThrYm5ncjNsbHVxa3hvMGt1bGs3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WFyvwq3xoTTMs/giphy.gif" 
@@ -17,7 +19,8 @@
 </p>
 
  😶‍🌫️ **About Me**
-- I'm from India 🌎. Huge fan of Node.js and writing testable software 💻.
+- I code in **C++** and **Java**, and I’m a huge fan of **Node.js**, with a strong focus on writing **testable, maintainable software**. 💻.
+- Built real-world solutions including a **movie review app**, **local job platform**, and a **free expression platform** 🧑‍💻
 - Passionate about creating impactful web apps with clean, secure, and scalable code. Currently exploring cloud technologies ☁️ and improving backend architecture skills.
 - When not coding, I enjoy watching tutorials 🫣, lifting weights 🏋️, and sketching ✏️.
 
@@ -25,7 +28,7 @@
 ---
 
 ## 🛠️ Skill Stack
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,js,tailwind,cpp,java,mongodb,mysql,aws,git,github,&theme=light)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,js,tailwind,cpp,java,mongodb,mysql,aws,git,github,typescript,&theme=light)](https://skillicons.dev)  
 
 **Also comfortable with:** Linux terminal (Bash).
 
